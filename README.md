@@ -27,3 +27,15 @@ Open the Colab notebook.
 Upload the CSV file.
 
 Run all cells to explore the analysis and plots.
+
+📈 Power BI Dashboard
+
+In addition to the Python-based EDA, a Power BI dashboard was built to visualize and interactively explore:
+
+- Customer revenue breakdown
+- Age & gender distribution
+- Product category returns
+- Churn behavior by segment
+
+🔗 Navigate to `ecommerce_customer_analysis.pbix` to explore the Power BI report.
+
